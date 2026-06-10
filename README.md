@@ -22,6 +22,10 @@ RL credit assignment · agent memory · DSPy · MCP · Rust · retrieval / RAG s
 - **Inita** — chat-based AI automating website / CRM / ads for SMBs (DSPy + MCP).
 - **Teleport** — peer-to-peer WebRTC CDN.
 
+### Open source
+- **[maxsim-rs](https://github.com/maxbaluev/maxsim-rs)** — ColBERT-style late-interaction MaxSim scoring in Rust (zero-dependency).
+- **[accreted-intelligence](https://github.com/maxbaluev/accreted-intelligence)** — the acc4 whitepaper + architecture overview.
+
 ### Now
 Exploring **Staff / Principal / Founding AI Engineer** roles (remote) in retrieval,
 agent memory, and RL-for-LLMs.

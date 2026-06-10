@@ -68,7 +68,7 @@ Most AI forgets: a model scores 90% today and 90% tomorrow; what worked, what fa
       Chat-based AI automating <b>website / CRM / ads</b> for SMBs (DSPy + MCP).
     </td>
     <td width="50%" valign="top">
-      <h4><b>Teleport</b> — <i>Founder</i></h4>
+      <h4><b>Teleport</b> — <i>Founding Engineer</i></h4>
       <b>Peer-to-peer WebRTC CDN</b> — distributed delivery at the edge.
     </td>
   </tr>

@@ -83,3 +83,5 @@ Exploring **Staff / Principal / Founding AI Engineer** roles — **remote** — 
 <p align="center"><i>"Reasoning is getting cheaper. Judgment is not. I build for the part that compounds."</i></p>
 
 📫 **maxbaluev@outlook.com** · [Telegram](https://t.me/maxbaluev)
+
+<!-- profile -->

@@ -78,7 +78,7 @@ Most AI forgets: a model scores 90% today and 90% tomorrow; what worked, what fa
 
 ### 🤝 Now
 
-Exploring **Staff / Principal / Founding AI Engineer** roles — **remote** — in retrieval, agent memory, and RL-for-LLMs.
+Exploring **Staff / Principal / Founding AI Engineer** roles — **remote from GMT−3, full US/EU-hours overlap, contractor-ready** — in retrieval, agent memory, and RL-for-LLMs. **CV on request.**
 
 <p align="center"><i>"Reasoning is getting cheaper. Judgment is not. I build for the part that compounds."</i></p>
 
